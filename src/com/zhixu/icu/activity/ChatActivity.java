@@ -332,6 +332,7 @@ public class ChatActivity extends BaseActivity implements OnClickListener {
 			listView.setSelection(count - 1);
 		}
 
+		
 		listView.setOnTouchListener(new OnTouchListener() {
 
 			@Override
